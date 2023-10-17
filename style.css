@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(26, 26, 26);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+form {
+  text-align: center;
+}
+
+input[type="text"] {
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  color: white;
+}
+
+div {
+  margin: 10px;
+}
+
+img {
+  margin: 5px;
+}
+
+.search-btn {
+  background-color: #4d4d4d;
+}
+
+.delete-btn {
+  background-color: #d84925;
+}
